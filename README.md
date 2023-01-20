@@ -1,11 +1,8 @@
 ## I'm a Rustacean!
 
 - 🌱 I’m currently learning anything that the Rust programming language can do xD
-- 🥅 2022 Goals: Learn more about Rust backend frameworks
+- 🥅 2023 Goals: Continue learning more about Rust backend frameworks
 - ⚡ Fun fact: I love to swim and listen to music
-
-### Github Badge
-![Github Badge](https://github-readme-stats.vercel.app/api?username=devraymondsh&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 
