@@ -1,11 +1,12 @@
-## I'm a Rustacean!
+## I'm a developer!
 
-- 🌱 I’m currently learning anything that the Rust programming language can do xD
-- 🥅 2023 Goals: Continue learning more about Rust backend frameworks
+- ⚡ I’m currently working on [kivi](https://github.com/devraymondsh/kivi)
+- ⚡ 2023 Goals: Continue learning low-level concepts
 - ⚡ Fun fact: I love to swim and listen to music
 
 ### Languages and Tools:
 
+![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=zig&logoColor=yellow)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -15,12 +16,9 @@
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![Mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![Archlinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Artixlinux](https://img.shields.io/badge/Artix_Linux-1793D1?style=for-the-badge&logo=artix-linux&logoColor=white)
 
 
 ### Contact me:
