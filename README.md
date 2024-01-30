@@ -1,6 +1,6 @@
-## I'm a developer!
+## This is Mahdi Sharifi.
 
-- ⚡ I’m currently working on [kivi](https://github.com/devraymondsh/kivi)
+- ⚡ I’m currently working on [kivi](https://github.com/devraymondsh/kivi) and [TurboTidy](https://github.com/devraymondsh/turbotidy)
 - ⚡ 2023 Goals: Continue learning low-level concepts
 - ⚡ Fun fact: I love to swim and listen to music
 
