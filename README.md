@@ -1,7 +1,7 @@
 ## This is Mahdi Sharifi.
 
-- ⚡ I’m currently working on [Kivi](https://github.com/devraymondsh/kivi) and [TurboTidy](https://github.com/devraymondsh/turbotidy)
-- ⚡ 2024 Goals: Still diving into low-level concepts
+- ⚡ I’m currently working on [Vortex](https://github.com/devraymondsh/vortex).
+- ⚡ 2024 Goals: Still diving into low-level concepts.
 - ⚡ Fun fact: I love swimming and working out.
 
 ### Languages and Tools:
