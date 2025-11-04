@@ -1,7 +1,7 @@
 ## This is Mahdi Sharifi.
 
 - ⚡ I’m currently working on [Vortex](https://github.com/VortexSdk/vortex).
-- ⚡ 2024 Goals: Still diving into low-level concepts.
+- ⚡ 2025 Goals: Still diving into low-level concepts.
 - ⚡ Fun fact: I love swimming and working out.
 
 ### Languages and Tools:
